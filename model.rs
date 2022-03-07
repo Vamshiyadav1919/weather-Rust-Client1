@@ -15,3 +15,4 @@ pub struct Weather {
 pub struct Main {
     temp: f64,
 }
+// Code Updated
